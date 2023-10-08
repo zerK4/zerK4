@@ -14,26 +14,6 @@ I'm the architect behind the screen, turning caffeine into elegant code and bugs
 - 🛍️ Magento spellbinder: Hated it at the beginning but I can say that it's pretty nice after all.
 - 🏰 AEM thing: Gosh, this might be hard to learn after all :grimacing:.
 
-## Current Quest 🚀
-
-At this very moment, I'm on a daring adventure to craft the most seamless and stunning web experience with my SAAS application.
-
-> ## Eventer
-> An event management system to handle personal events, provider relationships, and event manager interactions.<br>
-> This is written in NextJS(yup, the app dir 😏 ), typescript, MongoDB with Mongoose, Zustand as state manager, Shadcn-ui(TailwindCSS ofc :relieved:), ClerkJS for authentication and other dependencies. <br>
-> ### Some features:
->  - Authenticate with Google or password (obviously 🙄).
->  - Pass the onboarding process
->    - Add a nice picture if you don't have it on Google already, add some details about yourself, and choose the account type.
->  - Create events, provider pages, packages, and many more based on your account type.
-
-Sounds nice?
-Have a look here: https://ah-eventer.vercel.app/ 
-
-> ### 💡 Disclaimer
-> Bear in mind the fact that it's still under development and it can look like sh** sometimes if I mess it up. <br> 
-> It will have also a feedback section at a certain moment.
-
 ## Fun Facts 🎉
 
 - My first program was a "Hello World" (cool ya? bet you "didn't do the same") in Python 🖤, a few years back.
