@@ -1,27 +1,47 @@
 # Hey there! 👋
 
-Welcome to my GitHub abode, where code dances with creativity and bugs fear to tread. I'm a full-stack developer with a passionate crush on Next.js and TypeScript (psst, don't tell anyone but I kinda like also the purple elefant 🤫). If you're here for some severe code craftsmanship sprinkled with humor, you've landed in the proper byte-sized paradise.
+Welcome to my GitHub sanctuary, where creativity meets code, and bugs fear to roam. I’m a passionate Full-Stack Developer with a deep love for Next.js, Laravel, and TypeScript (though I secretly admire that purple elephant 🐘). If you’re here for top-notch code served with a side of humor, you’ve found your byte-sized paradise.
+
+---
 
 ## About Me 🤓
 
-I'm the architect behind the screen, turning caffeine into elegant code and bugs into features. Armed with a penchant for translating tangled problems into elegant solutions, I'm all ears for challenges. Be it sculpting user interfaces or untangling backend enigmas, I've got your back(end).
+I’m a problem-solving enthusiast who transforms caffeine into clean, scalable code. From crafting intuitive user interfaces to tackling complex backend conundrums, I bring precision, creativity, and a relentless drive for excellence.
+
+---
 
 ## My Superpowers 🦸‍♂️
 
-- 🚀 Full-stack wizardry: Navigating both the front-end labyrinth and the back-end wilderness.
-- 💻 Next.js whisperer: Fluent in Next.js - it's practically my native language(kinda).
-- 📜 TypeScript sorcerer: I wield the magic of solid typing to tame chaos.
-- 🛍️ Magento spellbinder: Hated it at the beginning but I can say that it's pretty nice after all.
-- 🏰 AEM thing: Gosh, this might be hard to learn after all :grimacing:.
+### **💻 Full-Stack Expertise**
+Mastering both the front-end playground and the back-end battlefield.
+
+### **🚀 Next.js Whisperer**
+Fluent in Next.js — it’s practically my native language.
+
+### **📜 TypeScript Sorcerer**
+Wielding type safety like a wizard casting spells against chaos.
+
+### **🌐 Laravel Artisan**
+Building robust APIs and scalable web applications with Laravel.
+
+### **💾 Database Architect**
+Designing efficient and scalable database schemas with a passion for data integrity.
+
+---
 
 ## Fun Facts 🎉
 
-- My first program was a "Hello World" (cool ya? bet you "didn't do the same") in Python 🖤, a few years back.
-- I realized shortly that I did not like Python so much and I jumped on HTML(not a programming language 😆), CSS, and JS, where I fell in love ❤️.
-- Little by little I started learning, and I learned and learned until I got here (obviously I'm currently still learning new things but who doesn't).
+- My first program was a humble “Hello World” in Python 🐍 (shocking, right?).
+- Soon after, I fell in love with HTML (yes, I know it’s not a programming language 😆), CSS, and JavaScript.
+- I’ve been learning ever since — and I’m still on the journey, because in tech, the learning never stops.
 
-## Let's Collab! 🌐
+---
 
-If your passion for code burns as brightly as mine, let's team up and conjure wonders. Reach out to me whether you seek collaboration, yearn for coding quips, or wish to engage in the timeless tabs-vs-spaces debate (spoiler: tabs all the way ☺️).
+## Let’s Collaborate! 🌐
 
-Remember, the finest code is woven with whimsy and determination. Happy coding! 🎈
+If you’re as passionate about code as I am, let’s team up and build something extraordinary. Whether it’s collaboration, mentorship, or just a friendly chat about coding quirks, I’m all ears.
+
+**Bonus Round:** Let’s settle the timeless debate — Tabs or Spaces? (Spoiler: Tabs all the way 😉).
+
+Remember, the best code is written with heart, humor, and a spark of determination. Happy coding! 🎈
+
